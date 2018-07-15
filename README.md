@@ -37,8 +37,7 @@ WINNER
 
 The four problems are as follows
 
-1. Top 4 teams which elected to field first after winning toss in the year 2016 and
-2017.
+1. Top 4 teams which elected to field first after winning toss in 2016 and 2017.
 Output Expected:  YEAR TEAM COUNT
 
 2. List total number of fours, sixes, total score with respect to team and year.
